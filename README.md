@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hello%20World!%20I'm%20Ananda%20Sultan%20H&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hello%20World!%20I'm%20Ananda%20Sultan%20Hady%20Wibowo&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ## 👋 About Me
 

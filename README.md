@@ -2,8 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hello%20World!%20I'm%20Ananda%20Sultan%20H&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
----
-
 ## 👋 About Me
 
 Hi! I'm **Ananda Sultan H**, a passionate learner and creator in the field of **Web Development**, **IoT Projects**, and **Creative Multimedia**.  
@@ -13,9 +11,11 @@ I enjoy building things that live on the internet, from websites to interactive 
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandasultan/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nanda_sultan//)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nandasultan/)
+<p align="left">
+  <a href="https://instagram.com/nanda_sultan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/nandasultan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@nandasultan/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
 
 ---
 
@@ -59,6 +59,8 @@ I enjoy building things that live on the internet, from websites to interactive 
 
 ###
 
+## 🕹️ Play Games With Me!
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandasultan/nandasultan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nandasultan/nandasultan/output/pacman-contribution-graph.svg">
@@ -67,9 +69,9 @@ I enjoy building things that live on the internet, from websites to interactive 
 
 ###
 
-
----
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nandasultan.nandasultan&"  />
+</div>
 <!-- Footer -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer)

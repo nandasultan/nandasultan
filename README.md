@@ -51,9 +51,15 @@ I enjoy building things that live on the internet, from websites to interactive 
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandasultan&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandasultan&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nandasultan&theme=tokyonight&border_radius=4.5)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nandasultan&theme=tokyonight&border_radius=4.5" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 

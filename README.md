@@ -41,7 +41,7 @@ I enjoy building things that live on the internet, from websites to interactive 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="    https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
@@ -59,10 +59,6 @@ I enjoy building things that live on the internet, from websites to interactive 
 
 ###
 
-<h4 align="left">Play Games With Me</h4>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandasultan/nandasultan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nandasultan/nandasultan/output/pacman-contribution-graph.svg">
@@ -71,9 +67,6 @@ I enjoy building things that live on the internet, from websites to interactive 
 
 ###
 
-<img src="https://raw.githubusercontent.com/nandasultan/nandasultan/output/snake.svg" alt="Snake animation" />
-
-###
 
 ---
 

@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **Ananda Sultan H**, a passionate learner and creator in the field of **Web Development**, **IoT Projects**, and **Creative Multimedia**.  
+Hi! I'm **Ananda Sultan H W**, a passionate learner and creator in the field of **Web Development**, **IoT Projects**, and **Creative Multimedia**.  
 I enjoy building things that live on the internet, from websites to interactive experiences.
 
 ---
